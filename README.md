@@ -21,4 +21,4 @@
 #### _DONE_: 
 - [x] 2015-12-31 23:59:59 PDT --- Make 10% profit in Stock Market.
 
-### Yours, Antonio (@antonio081014)
+### Yours, Antonio.
