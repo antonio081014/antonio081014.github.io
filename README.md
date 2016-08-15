@@ -16,7 +16,7 @@
 - [ ] Watch one LA Galaxy Soccer Match.
 - [ ] Attend a Marathon or a half marathon.
 
-**Cancelled**: Hawaii Trip with Family.
+**Cancelled**: ~~Hawaii Trip with Family~~.
 
 #### _DONE_: 
 - [x] 2015-12-31 23:59:59 PDT --- Make 10% profit in Stock Market.
