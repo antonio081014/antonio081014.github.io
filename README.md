@@ -3,6 +3,7 @@
 ## Resolution of 2016
 - [ ] Publish 2 apps on App Store or Play Store.
 - [ ] Make 10% profit in Stock Market.
+- [ ] Read 12 Books.
 
 #### _DONE_: 
 - [x] 2016-08-03 Accomplish 5 Tech Challenge with Cash Rewards.
