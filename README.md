@@ -4,7 +4,11 @@
 - [ ] Publish 1/3 apps on App Store or Play Store.
   - [x] 2016-08-08 Publish **Card or Cash** on [Play Store](https://play.google.com/store/apps/details?id=com.antonio081014.android.cardorcash). (This app serves for [BeMyApp Challenge](http://appsthatprint.bemyapp.com/) only)
 - [ ] Make 10% profit in Stock Market.
-- [ ] Read 11/12 Books.
+
+#### _DONE_: 
+- [x] 2016-08-03 Accomplish 5 Tech Challenge with Cash Rewards.
+- [x] Read 12/12 Books.
+  - [x] 2016-09-06 Read Book: [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works)
   - [x] 2016-08-10 Read Book: [The Swift Programming Language](https://www.goodreads.com/book/show/22394477-the-swift-programming-language)
   - [x] 2016-07-14 Read Book: [解忧杂货店](https://www.goodreads.com/book/show/24982941)
   - [x] 2016-07-16 Read Book: [参与感:小米口碑营销内部手册](https://www.goodreads.com/book/show/24787690)
@@ -17,9 +21,6 @@
   - [x] 2016-01-21 Read Book: [精绝古城 (鬼吹灯 #1)](https://www.goodreads.com/book/show/28352168)
   - [x] 2016-01-19 Read Book: [云南虫谷 (鬼吹灯 #3)](https://www.goodreads.com/book/show/28352256)
 
-
-#### _DONE_: 
-- [x] 2016-08-03 Accomplish 5 Tech Challenge with Cash Rewards.
 
 ------
 
