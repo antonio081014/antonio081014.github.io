@@ -7,7 +7,8 @@
 
 #### _DONE_: 
 - [x] 2016-08-03 Accomplish 5 Tech Challenge with Cash Rewards.
-- [x] Read 12/12 Books.
+- [x] Read 13/12 Books.
+  - [x] 2016-10-07 Read Book: [Willpower: Rediscovering the Greatest Human Strength](https://www.goodreads.com/book/show/11104933-willpower)
   - [x] 2016-09-06 Read Book: [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works)
   - [x] 2016-08-10 Read Book: [The Swift Programming Language](https://www.goodreads.com/book/show/22394477-the-swift-programming-language)
   - [x] 2016-07-14 Read Book: [解忧杂货店](https://www.goodreads.com/book/show/24982941)
