@@ -14,6 +14,11 @@
   - [ ] [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
   - [ ] [牛津通识读本：现代日本](https://www.goodreads.com/book/show/23382168)
   - [ ] [The Giant Baby Nation 巨婴国](https://www.goodreads.com/book/show/33198391-the-giant-baby-nation)
+  - [ ] [So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+  - [ ] [Playful Parenting](https://www.goodreads.com/book/show/160909.Playful_Parenting)
+  - [ ] [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures)
+  - [ ] [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+  - [ ] [Hooked: How to Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Achieve **Jogger Gold** on PokemonGo.
 
