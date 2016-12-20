@@ -1,6 +1,23 @@
 # Welcome to Antonio's Resolution Page.
 
-## Resolution of 2016
+## Resolution of 2017
+- [ ] \(0/18\) Books to Read
+  - [ ] [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
+  - [ ] [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
+  - [ ] [斯坦福极简经济学](https://www.goodreads.com/book/show/28007373)
+  - [ ] [Functional Programming in Swift](https://www.goodreads.com/book/show/23315627-functional-programming-in-swift)
+  - [ ] [Core Data](https://www.goodreads.com/book/show/28198400-core-data)
+  - [ ] [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk)
+  - [ ] [Advanced Swift: Updated for Swift 3](https://www.goodreads.com/book/show/32589256-advanced-swift)
+  - [ ] [Not For Parents China: Everything You Ever Wanted to Know](https://www.goodreads.com/book/show/16187577-not-for-parents-china)
+  - [ ] [目送](https://www.goodreads.com/book/show/4756002)
+  - [ ] [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
+  - [ ] [牛津通识读本：现代日本](https://www.goodreads.com/book/show/23382168)
+  - [ ] [The Giant Baby Nation 巨婴国](https://www.goodreads.com/book/show/33198391-the-giant-baby-nation)
+
+------
+
+## ( 2/4 Achieved) Resolution of 2016
 - [ ] Publish 1/3 apps on App Store or Play Store.
   - [x] 2016-08-08 Publish **Card or Cash** on [Play Store](https://play.google.com/store/apps/details?id=com.antonio081014.android.cardorcash). (This app serves for [BeMyApp Challenge](http://appsthatprint.bemyapp.com/) only)
 - [ ] Make 10% profit in Stock Market.
@@ -25,7 +42,7 @@
 
 ------
 
-## Resolution of 2015
+## ( 1/5 Achieved) Resolution of 2015
 - [ ] Publish 10 apps on App Store with 30K downloads.
 - [ ] Write a book about Sweet Pea with family.
 - [ ] Watch one LA Galaxy Soccer Match.
