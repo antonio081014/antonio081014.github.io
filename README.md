@@ -14,6 +14,8 @@
   - [ ] [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
   - [ ] [牛津通识读本：现代日本](https://www.goodreads.com/book/show/23382168)
   - [ ] [The Giant Baby Nation 巨婴国](https://www.goodreads.com/book/show/33198391-the-giant-baby-nation)
+- [ ] Save $8000 for Emergency Fund.
+- [ ] Achieve **Jogger Gold** on PokemonGo.
 
 ------
 
