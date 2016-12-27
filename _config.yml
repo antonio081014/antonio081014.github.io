@@ -2,6 +2,7 @@ title: Antonio's Resolution
 description: Share Wonderful Milestones with All
 google_analytics: UA-89537104-1
 show_downloads: false
+markdown: kramdown
 theme: jekyll-theme-cayman
 
 gems:
