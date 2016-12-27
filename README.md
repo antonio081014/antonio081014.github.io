@@ -1,5 +1,3 @@
-# Welcome to Antonio's Resolution Page.
-
 ## Resolution of 2017
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Achieve **Jogger Gold** on PokemonGo.
