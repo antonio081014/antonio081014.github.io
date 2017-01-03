@@ -23,6 +23,7 @@
   - [ ] [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures)
   - [ ] [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
   - [ ] [Hooked: How to Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)
+  - [ ] [Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) [Read Link](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 ------
 
