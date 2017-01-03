@@ -5,7 +5,7 @@
 - [ ] Make a tvOS App.
 - [ ] Make a macOS App.
 - [ ] Make an IoT related Project.
-- [ ] \(0/18\) Books to Read
+- [ ] [\(0/18\) Books to Read, Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
   - [ ] [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
   - [ ] [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
   - [ ] [斯坦福极简经济学](https://www.goodreads.com/book/show/28007373)
@@ -23,7 +23,6 @@
   - [ ] [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures)
   - [ ] [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
   - [ ] [Hooked: How to Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)
-
 
 ------
 
