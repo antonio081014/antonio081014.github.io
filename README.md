@@ -1,4 +1,5 @@
 ## Resolution of 2017
+- [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Achieve **Jogger Gold** on PokemonGo.
 - [ ] Make a watchOS App.
