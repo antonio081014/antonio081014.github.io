@@ -6,7 +6,7 @@
 - [ ] Make a tvOS App.
 - [ ] Make a macOS App.
 - [ ] Make an IoT related Project.
-- [ ] [\(0/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
+- [ ] [\(01/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
   - [ ] [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
   - [ ] [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
   - [ ] [斯坦福极简经济学](https://www.goodreads.com/book/show/28007373)
@@ -25,6 +25,9 @@
   - [ ] [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
   - [ ] [Hooked: How to Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)
   - [ ] [Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) [Read Link](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+
+#### _DONE_:
+- [x] 2017-01-23 Read Book: [做不焦虑的年轻人](https://www.goodreads.com/book/show/33958384)
 
 ------
 
