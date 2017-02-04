@@ -4,7 +4,6 @@
 - [ ] Achieve **Jogger Gold** on PokemonGo.
 - [ ] Make a watchOS App.
 - [ ] Make a tvOS App.
-- [ ] Make a macOS App.
 - [ ] Make an IoT related Project.
 - [ ] [\(02/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
   - [ ] [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
@@ -27,6 +26,7 @@
   - [ ] [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.goodreads.com/book/show/18077903-creativity-inc)
 
 #### _DONE_:
+- [x] 2017-01-26 Make a macOS App: [Quantum PAR Meter on macOS](https://www.hydrofarm.com/p/LGBQM)
 - [x] 2017-01-23 Read Book: [做不焦虑的年轻人](https://www.goodreads.com/book/show/33958384)
 - [x] 2017-01-24 Read Book: [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
 
