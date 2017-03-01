@@ -5,7 +5,7 @@
 - [ ] Make a watchOS App.
 - [ ] Make a tvOS App.
 - [ ] Make an IoT related Project.
-- [ ] [\(04/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
+- [ ] [\(05/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
   - [ ] [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
   - [ ] [斯坦福极简经济学](https://www.goodreads.com/book/show/28007373)
   - [ ] [Functional Programming in Swift](https://www.goodreads.com/book/show/23315627-functional-programming-in-swift)
@@ -31,6 +31,7 @@
 - [x] 2017-01-24 Read Book: [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
 - [x] 2017-02-12 Read Book: [鬼吹灯：昆仑神宫](https://www.goodreads.com/book/show/28352366)
 - [x] 2017-02-13 Read Book: [神探伽利略](https://www.goodreads.com/book/show/22171647)
+- [x] 2017-02-28 Read Book: [怪诞经济学](https://www.goodreads.com/book/show/34276696)
 
 ------
 
