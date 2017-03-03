@@ -13,7 +13,6 @@
   - [ ] [Advanced Swift: Updated for Swift 3](https://www.goodreads.com/book/show/32589256-advanced-swift)
   - [ ] [Not For Parents China: Everything You Ever Wanted to Know](https://www.goodreads.com/book/show/16187577-not-for-parents-china)
   - [ ] [目送](https://www.goodreads.com/book/show/4756002)
-  - [ ] [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
   - [ ] [牛津通识读本：现代日本](https://www.goodreads.com/book/show/23382168)
   - [ ] [The Giant Baby Nation 巨婴国](https://www.goodreads.com/book/show/33198391-the-giant-baby-nation)
   - [ ] [So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
@@ -32,6 +31,7 @@
 - [x] 2017-02-13 Read Book: [神探伽利略](https://www.goodreads.com/book/show/22171647)
 - [x] 2017-02-28 Read Book: [怪诞经济学](https://www.goodreads.com/book/show/34276696)
 - [x] 2017-03-01 Read Book: [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
+- [x] 2017-03-03 Read Book: [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
 
 ------
 
