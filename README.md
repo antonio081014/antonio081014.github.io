@@ -33,6 +33,7 @@
 - [x] 2017-03-01 Read Book: [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
 - [x] 2017-03-03 Read Book: [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
 - [x] 2017-03-10 Read Book: [亲爱的安德烈](https://www.goodreads.com/book/show/34470061)
+- [x] 2017-03-19 Read Book: [嫌疑人X的献身](https://www.goodreads.com/book/show/12354752-x)
 
 ------
 
