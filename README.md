@@ -36,6 +36,7 @@
 - [x] 2017-03-19 Read Book: [嫌疑人X的献身](https://www.goodreads.com/book/show/12354752-x)
 - [x] 2017-04-02 Read Book: [白夜行](https://www.goodreads.com/book/show/25988656)
 - [x] 2017-05-13 Read Book: [腾讯传](https://www.goodreads.com/book/show/33782211)
+- [x] 2017-05-19 Read Book: [新参者](https://www.goodreads.com/book/show/34426901)
 
 ------
 
