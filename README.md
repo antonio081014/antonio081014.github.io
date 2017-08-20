@@ -5,7 +5,7 @@
 - [ ] Make a watchOS App.
 - [ ] Make a tvOS App.
 - [ ] Make an IoT related Project.
-- [ ] [\(13/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
+- [ ] [\(14/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
   - [ ] [斯坦福极简经济学](https://www.goodreads.com/book/show/28007373)
   - [ ] [Functional Programming in Swift](https://www.goodreads.com/book/show/23315627-functional-programming-in-swift)
   - [ ] [Core Data](https://www.goodreads.com/book/show/28198400-core-data)
@@ -38,7 +38,7 @@
 - [x] 2017-05-13 Read Book: [腾讯传](https://www.goodreads.com/book/show/33782211)
 - [x] 2017-05-19 Read Book: [新参者](https://www.goodreads.com/book/show/34426901)
 - [x] 2017-08-11 Read Book: [恶意](https://www.goodreads.com/book/show/35500089)
-
+- [x] 2017-08-18 Read Book: [罗辑思维：迷茫时代的明白人](https://www.goodreads.com/book/show/27865651)
 ------
 
 ## ( 2/4 Achieved) Resolution of 2016
