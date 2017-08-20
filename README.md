@@ -39,6 +39,7 @@
 - [x] 2017-05-19 Read Book: [新参者](https://www.goodreads.com/book/show/34426901)
 - [x] 2017-08-11 Read Book: [恶意](https://www.goodreads.com/book/show/35500089)
 - [x] 2017-08-18 Read Book: [罗辑思维：迷茫时代的明白人](https://www.goodreads.com/book/show/27865651)
+
 ------
 
 ## ( 2/4 Achieved) Resolution of 2016
