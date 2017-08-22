@@ -39,6 +39,8 @@
 - [x] 2017-05-19 Read Book: [新参者](https://www.goodreads.com/book/show/34426901)
 - [x] 2017-08-11 Read Book: [恶意](https://www.goodreads.com/book/show/35500089)
 - [x] 2017-08-18 Read Book: [罗辑思维：迷茫时代的明白人](https://www.goodreads.com/book/show/27865651)
+- [x] 2017-08-08 Finish Tutorial: [Lets Build YouTube](https://www.youtube.com/playlist?list=PL0dzCUj1L5JGKdVUtA5xds1zcyzsz7HLj)
+- [x] 2017-08-18 Finish Tutorial: [Recreating App Store](https://www.youtube.com/playlist?list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma)
 
 ------
 
