@@ -41,6 +41,7 @@
 - [x] 2017-08-18 Read Book: [罗辑思维：迷茫时代的明白人](https://www.goodreads.com/book/show/27865651)
 - [x] 2017-08-08 Finish Tutorial: [Lets Build YouTube](https://www.youtube.com/playlist?list=PL0dzCUj1L5JGKdVUtA5xds1zcyzsz7HLj)
 - [x] 2017-08-18 Finish Tutorial: [Recreating App Store](https://www.youtube.com/playlist?list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma)
+- [x] 2017-09-03 Finish Tutorial: [Swift 3: Let's Build Twitter](https://www.youtube.com/playlist?list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5)
 
 ------
 
