@@ -45,6 +45,7 @@
 - [x] 2017-09-30 Read Book: [秘密](https://www.goodreads.com/book/show/26067611)
 - [x] 2017-10-12 Read Book: [Old School (Diary of a Wimpy Kid #10)](https://www.goodreads.com/book/show/25222064-old-school)
 - [x] 2017-11-02 Read Book: [白鹿原纪事](https://www.goodreads.com/book/show/31695765)
+- [x] 2017-11-05 Finish Tutorial: [Auto Layout](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F)
 
 ------
 
