@@ -5,14 +5,13 @@
 - [ ] Make a watchOS App.
 - [ ] Make a tvOS App.
 - [ ] Make an IoT related Project.
-- [ ] [\(17/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
+- [ ] [\(18/24\) Books to Read - Goodreads Challenge](https://www.goodreads.com/user_challenges/7427232)
   - [ ] [斯坦福极简经济学](https://www.goodreads.com/book/show/28007373)
   - [ ] [Functional Programming in Swift](https://www.goodreads.com/book/show/23315627-functional-programming-in-swift)
   - [ ] [Core Data](https://www.goodreads.com/book/show/28198400-core-data)
   - [ ] [Elon Musk: Inventing the Future](https://www.goodreads.com/book/show/22543496-elon-musk)
   - [ ] [Advanced Swift: Updated for Swift 3](https://www.goodreads.com/book/show/32589256-advanced-swift)
   - [ ] [Not For Parents China: Everything You Ever Wanted to Know](https://www.goodreads.com/book/show/16187577-not-for-parents-china)
-  - [ ] [目送](https://www.goodreads.com/book/show/4756002)
   - [ ] [牛津通识读本：现代日本](https://www.goodreads.com/book/show/23382168)
   - [ ] [The Giant Baby Nation 巨婴国](https://www.goodreads.com/book/show/33198391-the-giant-baby-nation)
   - [ ] [So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
@@ -46,6 +45,7 @@
 - [x] 2017-10-12 Read Book: [Old School (Diary of a Wimpy Kid #10)](https://www.goodreads.com/book/show/25222064-old-school)
 - [x] 2017-11-02 Read Book: [白鹿原纪事](https://www.goodreads.com/book/show/31695765)
 - [x] 2017-11-05 Finish Tutorial: [Auto Layout](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F)
+- [x] 2017-12-26 Read Book: [目送](https://www.goodreads.com/book/show/4756002)
 
 ------
 
