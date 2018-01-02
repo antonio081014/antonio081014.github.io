@@ -1,3 +1,16 @@
+## \(0/5\) Resolution of 2018
+- [ ] \(0/24\) Books to Read - Goodreads Challenge
+- [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
+- [ ] Save $8000 for Emergency Fund.
+- [ ] Achieve **Jogger Gold** on PokemonGo.
+- [ ] Build and Publish Educational Alexa App.
+- [ ] Rewrite DMV Written Test iOS App.
+- [ ] \(0/100\) Run 100 miles.
+
+#### _DONE_:
+
+------
+
 ## Resolution of 2017
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
@@ -24,28 +37,29 @@
 
 #### _DONE_:
 - [x] 2017-01-26 Make a macOS App: [Quantum PAR Meter on macOS](https://www.hydrofarm.com/p/LGBQM)
-- [x] 2017-01-23 Read Book: [做不焦虑的年轻人](https://www.goodreads.com/book/show/33958384)
-- [x] 2017-01-24 Read Book: [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
-- [x] 2017-02-12 Read Book: [鬼吹灯：昆仑神宫](https://www.goodreads.com/book/show/28352366)
-- [x] 2017-02-13 Read Book: [神探伽利略](https://www.goodreads.com/book/show/22171647)
-- [x] 2017-02-28 Read Book: [怪诞经济学](https://www.goodreads.com/book/show/34276696)
-- [x] 2017-03-01 Read Book: [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
-- [x] 2017-03-03 Read Book: [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
-- [x] 2017-03-10 Read Book: [亲爱的安德烈](https://www.goodreads.com/book/show/34470061)
-- [x] 2017-03-19 Read Book: [嫌疑人X的献身](https://www.goodreads.com/book/show/12354752-x)
-- [x] 2017-04-02 Read Book: [白夜行](https://www.goodreads.com/book/show/25988656)
-- [x] 2017-05-13 Read Book: [腾讯传](https://www.goodreads.com/book/show/33782211)
-- [x] 2017-05-19 Read Book: [新参者](https://www.goodreads.com/book/show/34426901)
-- [x] 2017-08-11 Read Book: [恶意](https://www.goodreads.com/book/show/35500089)
-- [x] 2017-08-18 Read Book: [罗辑思维：迷茫时代的明白人](https://www.goodreads.com/book/show/27865651)
+- [-] \(75%\) Books to Read
+  - [x] 2017-01-23 Read Book: [做不焦虑的年轻人](https://www.goodreads.com/book/show/33958384)
+  - [x] 2017-01-24 Read Book: [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
+  - [x] 2017-02-12 Read Book: [鬼吹灯：昆仑神宫](https://www.goodreads.com/book/show/28352366)
+  - [x] 2017-02-13 Read Book: [神探伽利略](https://www.goodreads.com/book/show/22171647)
+  - [x] 2017-02-28 Read Book: [怪诞经济学](https://www.goodreads.com/book/show/34276696)
+  - [x] 2017-03-01 Read Book: [你一定爱读的极简欧洲史](https://www.goodreads.com/book/show/18871345)
+  - [x] 2017-03-03 Read Book: [孩子，你慢慢來](https://www.goodreads.com/book/show/5873761)
+  - [x] 2017-03-10 Read Book: [亲爱的安德烈](https://www.goodreads.com/book/show/34470061)
+  - [x] 2017-03-19 Read Book: [嫌疑人X的献身](https://www.goodreads.com/book/show/12354752-x)
+  - [x] 2017-04-02 Read Book: [白夜行](https://www.goodreads.com/book/show/25988656)
+  - [x] 2017-05-13 Read Book: [腾讯传](https://www.goodreads.com/book/show/33782211)
+  - [x] 2017-05-19 Read Book: [新参者](https://www.goodreads.com/book/show/34426901)
+  - [x] 2017-08-11 Read Book: [恶意](https://www.goodreads.com/book/show/35500089)
+  - [x] 2017-08-18 Read Book: [罗辑思维：迷茫时代的明白人](https://www.goodreads.com/book/show/27865651)
+  - [x] 2017-09-30 Read Book: [秘密](https://www.goodreads.com/book/show/26067611)
+  - [x] 2017-10-12 Read Book: [Old School (Diary of a Wimpy Kid #10)](https://www.goodreads.com/book/show/25222064-old-school)
+  - [x] 2017-11-02 Read Book: [白鹿原纪事](https://www.goodreads.com/book/show/31695765)
+  - [x] 2017-12-26 Read Book: [目送](https://www.goodreads.com/book/show/4756002)
 - [x] 2017-08-08 Finish Tutorial: [Lets Build YouTube](https://www.youtube.com/playlist?list=PL0dzCUj1L5JGKdVUtA5xds1zcyzsz7HLj)
 - [x] 2017-08-18 Finish Tutorial: [Recreating App Store](https://www.youtube.com/playlist?list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma)
 - [x] 2017-09-03 Finish Tutorial: [Swift 3: Let's Build Twitter](https://www.youtube.com/playlist?list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5)
-- [x] 2017-09-30 Read Book: [秘密](https://www.goodreads.com/book/show/26067611)
-- [x] 2017-10-12 Read Book: [Old School (Diary of a Wimpy Kid #10)](https://www.goodreads.com/book/show/25222064-old-school)
-- [x] 2017-11-02 Read Book: [白鹿原纪事](https://www.goodreads.com/book/show/31695765)
 - [x] 2017-11-05 Finish Tutorial: [Auto Layout](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F)
-- [x] 2017-12-26 Read Book: [目送](https://www.goodreads.com/book/show/4756002)
 
 ------
 
