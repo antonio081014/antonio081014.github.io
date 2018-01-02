@@ -1,4 +1,4 @@
-## \(0/5\) Resolution of 2018
+## \(0/7\) Resolution of 2018
 - [ ] \(0/24\) Books to Read - Goodreads Challenge
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
