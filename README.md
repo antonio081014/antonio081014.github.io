@@ -1,5 +1,5 @@
 ## \(1/7\) Resolution of 2018
-- [ ] \(1/24\) Books to Read - Goodreads Challenge
+- [ ] \(2/24\) Books to Read - Goodreads Challenge
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Build and Publish Educational Alexa App.
@@ -8,6 +8,7 @@
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
+- 2018-01-14 Read Book: [Frozen: The Junior Novelization](https://www.goodreads.com/book/show/18857202-frozen)
 - 2018-01-14 Achieve **Jogger Gold** on PokemonGo.
 - 2018-01-03 Read Book: [The Sign of the Beast](https://www.goodreads.com/book/show/36642856-the-sign-of-the-beast)
 
