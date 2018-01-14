@@ -1,4 +1,4 @@
-## Resolution of 2018
+## \(1/7\) Resolution of 2018
 - [ ] \(1/24\) Books to Read - Goodreads Challenge
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
@@ -7,10 +7,9 @@
 - [ ] \(0/100\) Run 100 miles.
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
-#### \(1/7\) _DONE_:
-- [x] 2018-01-14 Achieve **Jogger Gold** on PokemonGo.
-- [ ] \(1/24\) Books to Read - Goodreads Challenge
-  - [x] 2018-01-03 Read Book: [The Sign of the Beast](https://www.goodreads.com/book/show/36642856-the-sign-of-the-beast)
+#### _DONE_:
+- 2018-01-14 Achieve **Jogger Gold** on PokemonGo.
+- 2018-01-03 Read Book: [The Sign of the Beast](https://www.goodreads.com/book/show/36642856-the-sign-of-the-beast)
 
 ------
 
