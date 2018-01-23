@@ -8,7 +8,8 @@
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
-- 2018-01-19 Complete Tutorial: [HTML and CSS Syntax](https://classroom.udacity.com/courses/ud001)
+- 2018-01-23 Complete Tutorial: [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- 2018-01-19 Complete Tutorial: [HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 - 2018-01-14 Read Book: [Frozen: The Junior Novelization](https://www.goodreads.com/book/show/18857202-frozen)
 - 2018-01-14 Achieve **Jogger Gold** on PokemonGo.
 - 2018-01-03 Read Book: [The Sign of the Beast](https://www.goodreads.com/book/show/36642856-the-sign-of-the-beast)
