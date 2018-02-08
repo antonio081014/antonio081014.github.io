@@ -1,5 +1,5 @@
 ## \(1/7\) Resolution of 2018
-- [ ] \(3/24\) Books to Read - Goodreads Challenge
+- [ ] \(4/24\) Books to Read - Goodreads Challenge
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Build and Publish Educational Alexa App.
@@ -8,6 +8,7 @@
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
+- 2018-02-08 Read Book: [Ricochet Joe](https://www.goodreads.com/book/show/36987433-ricochet-joe-kindle-in-motion)
 - 2018-01-29 Complete Tutorial: [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 - 2018-01-27 Read Book: [Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/28132722-harry-potter-and-the-sorcerer-s-stone)
 - 2018-01-23 Complete Tutorial: [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
