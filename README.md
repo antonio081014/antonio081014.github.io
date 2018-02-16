@@ -1,5 +1,5 @@
 ## \(1/7\) Resolution of 2018
-- [ ] \(4/24\) Books to Read - Goodreads Challenge
+- [ ] \(5/24\) Books to Read - Goodreads Challenge
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Build and Publish Educational Alexa App.
