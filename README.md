@@ -8,6 +8,8 @@
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
+- 2018-02-16 Read Book: [The Junior Novelization (Disney/Pixar Inside Out)](https://www.goodreads.com/book/show/25503175-the-junior-novelization)
+- 2018-02-15 Complete Tutorial: [Responsive Web Design Fundamental](https://classroom.udacity.com/courses/ud893)
 - 2018-02-08 Read Book: [Ricochet Joe](https://www.goodreads.com/book/show/36987433-ricochet-joe-kindle-in-motion)
 - 2018-01-29 Complete Tutorial: [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 - 2018-01-27 Read Book: [Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/28132722-harry-potter-and-the-sorcerer-s-stone)
