@@ -8,6 +8,7 @@
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
+- 2018-02-23 Watch Video: WWDC 2016 Session 805 Iterative UI Design.
 - 2018-02-16 Read Book: [The Junior Novelization (Disney/Pixar Inside Out)](https://www.goodreads.com/book/show/25503175-the-junior-novelization)
 - 2018-02-15 Complete Tutorial: [Responsive Web Design Fundamental](https://classroom.udacity.com/courses/ud893)
 - 2018-02-08 Read Book: [Ricochet Joe](https://www.goodreads.com/book/show/36987433-ricochet-joe-kindle-in-motion)
