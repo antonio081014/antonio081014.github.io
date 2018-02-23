@@ -4,7 +4,7 @@
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Build and Publish Educational Alexa App.
 - [ ] Rewrite DMV Written Test iOS App.
-- [ ] \(1.06/100\) Run 100 miles.
+- [ ] Run \(1.06/100\) miles.
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
