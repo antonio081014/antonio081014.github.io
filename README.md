@@ -1,7 +1,7 @@
 # Antonio's Resolution
 
 ## \(1/7\) Resolution of 2018
-- [ ] \(5/24\) Books to Read - Goodreads Challenge
+- [ ] \(6/24\) Books to Read - Goodreads Challenge
 - [ ] **Extreme Difficult**: Lose some weight to **150** lbs.
 - [ ] Save $8000 for Emergency Fund.
 - [ ] Build and Publish Educational Alexa App.
@@ -10,6 +10,7 @@
 - [x] Achieve **Jogger Gold** on PokemonGo.
 
 #### _DONE_:
+- 2018-02-26 Read Book: [A Spy's Guide to Thinking](https://www.goodreads.com/book/show/25677935-a-spy-s-guide-to-thinking)
 - 2018-02-23 Watch Video: WWDC 2016 Session 805 Iterative UI Design.
 - 2018-02-16 Read Book: [The Junior Novelization (Disney/Pixar Inside Out)](https://www.goodreads.com/book/show/25503175-the-junior-novelization)
 - 2018-02-15 Complete Tutorial: [Responsive Web Design Fundamental](https://classroom.udacity.com/courses/ud893)
